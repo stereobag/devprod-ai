@@ -1,0 +1,19 @@
+{
+  "name": "devprod-research",
+  "version": "0.1.0",
+  "description": "Daily research and digests on AI-augmented developer productivity.",
+  "author": {
+    "name": "Shankar Krishnan",
+    "email": "shankar@devprod.ai"
+  },
+  "homepage": "https://devprod.ai",
+  "repository": "https://github.com/shankarkrishnan/devprod-ai",
+  "license": "MIT",
+  "keywords": [
+    "devprod",
+    "research",
+    "ai",
+    "productivity",
+    "tools"
+  ]
+}

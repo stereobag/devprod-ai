@@ -1,0 +1,19 @@
+{
+  "name": "article-writing",
+  "version": "0.1.0",
+  "description": "Draft, structure, and critique articles in a consistent voice \u2014 pitches, long-form, and hooks.",
+  "author": {
+    "name": "Shankar Krishnan",
+    "email": "shankar@devprod.ai"
+  },
+  "homepage": "https://devprod.ai",
+  "repository": "https://github.com/shankarkrishnan/devprod-ai",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "articles",
+    "editing",
+    "critique",
+    "voice"
+  ]
+}

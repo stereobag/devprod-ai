@@ -1,0 +1,33 @@
+{
+  "name": "devprod-ai",
+  "description": "Plugins from devprod.ai \u2014 research, writing, and best-practice guidance for AI-augmented developer productivity.",
+  "owner": {
+    "name": "Shankar Krishnan",
+    "url": "https://devprod.ai"
+  },
+  "metadata": {
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "devprod-research",
+      "source": "./plugins/devprod-research",
+      "description": "Research and digest AI-augmented developer productivity tools, trends, and incidents."
+    },
+    {
+      "name": "article-writing",
+      "source": "./plugins/article-writing",
+      "description": "Draft, structure, and critique articles in a defined voice (300-word pitches, long-form pieces, hooks)."
+    },
+    {
+      "name": "claude-best-practices",
+      "source": "./plugins/claude-best-practices",
+      "description": "Best practices for working in Claude Code \u2014 tool selection, skills, commands, settings, hooks."
+    },
+    {
+      "name": "agent-best-practices",
+      "source": "./plugins/agent-best-practices",
+      "description": "Best practices for building Anthropic SDK and Claude Code agents \u2014 scoping, tools, evals, guardrails."
+    }
+  ]
+}

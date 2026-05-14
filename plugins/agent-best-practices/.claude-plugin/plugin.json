@@ -1,0 +1,19 @@
+{
+  "name": "agent-best-practices",
+  "version": "0.1.0",
+  "description": "Best practices for building Anthropic SDK and Claude Code agents \u2014 scoping, tools, evals, guardrails.",
+  "author": {
+    "name": "Shankar Krishnan",
+    "email": "shankar@devprod.ai"
+  },
+  "homepage": "https://devprod.ai",
+  "repository": "https://github.com/shankarkrishnan/devprod-ai",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "anthropic-sdk",
+    "evals",
+    "guardrails",
+    "best-practices"
+  ]
+}
